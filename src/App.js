@@ -14,7 +14,7 @@ function App() {
        <h1>  My Portfolio</h1>
       </header>
       <ButtonAppBar />
-      <Router>
+      <Router >
         <Nav/>
         <Content/>
       </Router>
