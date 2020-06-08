@@ -8,7 +8,7 @@ const Home= props=> {
           <div>
                
                  <SectionHeader/>
-            HOME
+           Hi, I am Ruchita Sirkanungo
            
 
           </div>

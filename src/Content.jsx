@@ -5,6 +5,7 @@ import Home from './pages/Home';
 import Blog from './pages/Blog';
 import About from './pages/About';
 import Projects from './pages/Projects';
+import Contact from './pages/Contact';
 
 const Content= props=> {
     let [posts, setPosts] = useState([
@@ -35,6 +36,7 @@ const Content= props=> {
                  }/>
              <Route  path='/about' component={About}/>
              <Route  path='/projects' component={Projects}/>
+             <Route  path='/contact' component={Contact}/>
          </div>
           )
     }
