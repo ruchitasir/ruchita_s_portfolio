@@ -1,0 +1,10 @@
+.cover {
+    /* position: absolute;
+    right: 0;
+    bottom: 0; */
+    background: url('../assets/cover.png');
+    background-size: contain;
+    background-repeat: no-repeat; 
+    height: 800px ;
+  }
+  
